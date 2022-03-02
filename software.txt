@@ -1,5 +1,5 @@
 # Just a list of software I personally like to install)
-# APT packages are uncommented for easily installation
+# APT packages are uncommented for easy installation
 
 # Good firewall, idk why Linux doesn't have a firewall on by default lmao
 ufw
