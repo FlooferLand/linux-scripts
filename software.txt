@@ -30,3 +30,6 @@ Lutris
 
 # Odysee client, good for watching Linux youtubers
 LBRY
+
+# Blue light hurts my eyeballs
+redshift redshift-gtk
