@@ -25,4 +25,5 @@ MailSpring
 # Also provides a lot more information about your system
 bpytop
 
-
+# gaming
+Lutris
