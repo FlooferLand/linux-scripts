@@ -27,3 +27,6 @@ bpytop
 
 # gaming
 Lutris
+
+# Odysee client, good for watching Linux youtubers
+LBRY
