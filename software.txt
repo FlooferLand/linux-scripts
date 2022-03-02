@@ -1,0 +1,28 @@
+# Just a list of software I personally like to install)
+# Some stuff is written in comments to make syntax highlighting gray out my text
+
+# Good firewall, idk why Linux doesn't have a firewall on by default lmao
+ufw
+
+# Linux antivirus, better safe than sorry
+clamav clamtk
+
+# Because downloading AppImages gives me PTSD lmao
+# While i hate how annoying it is to launch flatpak software,
+# flatpak fixes a lot of dependency issues when installing software
+flatpak
+
+# Open-source Firefox fork, removes all Mozilla telemetry
+LibreWolf
+
+# Cool FOSS password manager
+BitWarden
+
+# Native open-source email client
+MailSpring
+
+# Alternative to htop, looks way better lmao
+# Also provides a lot more information about your system
+bpytop
+
+
