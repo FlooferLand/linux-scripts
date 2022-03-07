@@ -3,10 +3,7 @@
 ### Disables most/all proprietary NVIDIA driver telemetry ###
 #############################################################
 # Should be appended to /etc/hosts using the following command:
-# disable-nvidia-telemetry.sh >> etc/hosts
-#
-# The .sh extension is only there for syntax highlighting
-
+# sudo bash -c "cat disable-nvidia-telemetry.sh >> /etc/hosts"
 0.0.0.0 gfswl.geforce.com
 0.0.0.0 telemetry.nvidia.com
 0.0.0.0 gfe.nvidia.com
