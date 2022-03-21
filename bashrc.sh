@@ -1,4 +1,5 @@
 
+# Cleans up some unnecessary stuff
 function clean() {
 	# Remove orphan packages
 	sudo pacman -Rns $(pacman -Qtdq)
@@ -8,6 +9,8 @@ function clean() {
 	
 	# Sync the file system
 	sync
+	
+	echo Cleanup finished!
 }
 
 
