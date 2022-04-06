@@ -1,5 +1,5 @@
 # Just a list of software I personally like to install)
-# APT packages are uncommented for easy installation
+# Pacman packages are uncommented so they can easily be installed
 
 # Good firewall, idk why Linux doesn't have a firewall on by default lmao
 ufw
@@ -26,10 +26,10 @@ flatpak
 bpytop
 
 # gaming
-lutris
-
-# Odysee client, good for watching Linux youtubers
-# - LBRY
+#lutris (commented as i don't use lutris much)
 
 # Blue light hurts my eyeballs
-redshift redshift-gtk
+#redshift redshift-gtk (commented as i'm using GNOME as of writing this, which has it's own blue light filter)
+
+# Convenient way of installing GNOME extensions
+gnome-extension-manager
